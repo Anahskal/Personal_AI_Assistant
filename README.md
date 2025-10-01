@@ -25,8 +25,10 @@ Before running the notebook, make sure you have Python installed (preferably 3.8
 
 ```bash
 pip install transformers torch accelerate -q
-________________________________________
-💬 How to Use
+
+---
+
+##💬 How to Use
 1.	Open the notebook: Personal_AI_Assistant.ipynb
 2.	Run all cells in order
 3.	Interact with the assistant in the terminal-like interface
@@ -36,15 +38,18 @@ You: where is the white house located?
 
 You: bye
 👋 Assistant: Goodbye!
-________________________________________
-❓ Commands
+
+---
+
+##❓ Commands
 You can end the conversation anytime using:
 •	exit
 •	quit
 •	bye
-________________________________________
-🧱 Built With
+
+---
+
+##🧱 Built With
 •	🤗 Transformers
 •	PyTorch
 •	flan-t5-small model by Google
-________________________________________
