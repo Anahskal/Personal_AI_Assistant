@@ -1,4 +1,3 @@
-```markdown
 # 🧠 Personal AI Assistant
 
 A simple terminal-based AI assistant powered by a lightweight open-source language model (`flan-t5-small`) using Hugging Face Transformers. This assistant can remember your recent conversation and respond accordingly.
